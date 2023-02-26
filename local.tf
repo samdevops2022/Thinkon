@@ -1,0 +1,3 @@
+locals {
+  envs = ["production", "staging"]
+}
